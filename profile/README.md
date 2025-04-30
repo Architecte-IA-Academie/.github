@@ -1,12 +1,45 @@
-## Hi there 👋
+# Archite IA Académie – Ressources officielles
 
-<!--
+Bienvenue dans la communauté **Archite IA Académie**, l’espace où nous apprenons à développer, déployer et opérer des solutions d’intelligence artificielle de bout en bout.  
+Ce dépôt GitHub sert de coffre-fort centralisé : toutes les ressources pédagogiques et techniques mises à votre disposition sont versionnées ici afin que vous puissiez les cloner et les étudier en local.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Table des matières
+
+1. [Objectifs du dépôt](#objectifs-du-dépôt)  
+2. [Ressources incluses](#ressources-incluses)  
+3. [Prérequis et configuration](#prérequis-et-configuration)  
+4. [Clonage en lecture seule](#clonage-en-lecture-seule)  
+5. [Arborescence du projet](#arborescence-du-projet)  
+6. [Licence et conditions d’usage](#licence-et-conditions-dusage)  
+7. [Support et communauté](#support-et-communauté)
+
+---
+
+## Objectifs du dépôt
+
+- Centraliser **tout le matériel pédagogique** de la formation : code, infrastructure, workflows et cas clients.  
+- Garantir un **accès simple** (une commande `git clone`) tout en protégeant l’intégrité du dépôt : vous disposez des droits _lecture seule_ ; aucune action de push n’est autorisée côté GitHub.  
+- Faciliter la **reproductibilité** : chaque ressource est versionnée, étiquetée et accompagnée de son guide d’utilisation.
+
+---
+
+## Ressources incluses
+
+| Dossier racine            | Contenu principal                                                                   |
+|---------------------------|------------------------------------------------------------------------------------ |
+| `infra-ia/`               | Infrastructure IA                                                                   |
+| `workflows-n8n/`          | Scénarios d’automatisation au format n8n.                                           |
+| `agents-ia/`              | Code source des agents IA avec d'autres frameworks (Pydantic,Langchain,...)         |
+| `projets-clients/`        | Études de cas anonymisées et solutions livrées.                                     |
+
+> Chaque ressource est versionnée sous forme de sous-répertoire Git ou de module indépendant pour vous permettre de les cloner ou d’en faire un `git sparse-checkout` au besoin.
+
+---
+
+## Prérequis et configuration
+
+- **Git ≥ 2.37**  
+- Accès internet au domaine `github.com`  
+- Une machine Linux/macOS/WSL ; pour Windows natif, privilégiez Git Bash ou PowerShell ≥ 7.
