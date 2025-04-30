@@ -29,7 +29,7 @@ Ce dépôt GitHub sert de coffre-fort centralisé : toutes les ressources pédag
 
 | Dossier racine            | Contenu principal                                                           |Lien                                                              |
 |---------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------|
-| `infra-ia/`               | Infrastructure IA (n8n,Ollama, Supabase, Markitdown, Baserow, Qdrant, Caddy)| Lien d'accès                                                     |
+| `infra-ia/`               | Infrastructure IA (n8n,Ollama, Supabase, Markitdown, Baserow, Qdrant, Caddy)| [Lien d'accès](https://github.com/Architecte-IA-Academie/infra-ia-local/tree/main)                                                     |
 | `workflows-n8n/`          | Scénarios d’automatisation au format n8n.                                   | Lien d'accès                                                     |
 | `agents-ia/`              | Code source des agents IA avec d'autres frameworks (Pydantic,Langchain,...) | Lien d'accès                                                     |
 | `projets-clients/`        | Études de cas anonymisées et solutions livrées.                             | Lien d'accès                                                     |
