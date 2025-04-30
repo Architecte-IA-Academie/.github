@@ -27,12 +27,12 @@ Ce dépôt GitHub sert de coffre-fort centralisé : toutes les ressources pédag
 
 ## Ressources incluses
 
-| Dossier racine            | Contenu principal                                                                   |
-|---------------------------|------------------------------------------------------------------------------------ |
-| `infra-ia/`               | Infrastructure IA                                                                   |
-| `workflows-n8n/`          | Scénarios d’automatisation au format n8n.                                           |
-| `agents-ia/`              | Code source des agents IA avec d'autres frameworks (Pydantic,Langchain,...)         |
-| `projets-clients/`        | Études de cas anonymisées et solutions livrées.                                     |
+| Dossier racine            | Contenu principal                                                           |Lien                                                              |
+|---------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------|
+| `infra-ia/`               | Infrastructure IA (n8n,Ollama, Supabase, Markitdown, Baserow, Qdrant, Caddy)| Lien d'accès                                                     |
+| `workflows-n8n/`          | Scénarios d’automatisation au format n8n.                                   | Lien d'accès                                                     |
+| `agents-ia/`              | Code source des agents IA avec d'autres frameworks (Pydantic,Langchain,...) | Lien d'accès                                                     |
+| `projets-clients/`        | Études de cas anonymisées et solutions livrées.                             | Lien d'accès                                                     |
 
 > Chaque ressource est versionnée sous forme de sous-répertoire Git ou de module indépendant pour vous permettre de les cloner ou d’en faire un `git sparse-checkout` au besoin.
 
